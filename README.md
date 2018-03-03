@@ -1,3 +1,4 @@
 # React-Native-Albums
 A learning react project that can display albums on phone
-![Screenshot](screenshot.png)
+
+<img height='700' src='React-Native-Albums/screenshot.png' />
